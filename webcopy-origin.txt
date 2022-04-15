@@ -1,0 +1,188 @@
+Uri: https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\npm\chart.js@3.7.0\dist\chart.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dessertswap.finance/audits/Pets-of-Elon-BSC-ETH-Audit-16313116.pdf
+File Name: C:\Downloaded Web Sites\petsofelon.com\audits\Pets-of-Elon-BSC-ETH-Audit-16313116.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap
+File Name: C:\Downloaded Web Sites\petsofelon.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\petsofelon.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://petsofelon.com/
+File Name: C:\Downloaded Web Sites\petsofelon.com\index.htm
+Content Type: text/html
+
+Uri: https://petsofelon.com/assets/bundle.css
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\bundle.css
+Content Type: text/css
+
+Uri: https://petsofelon.com/assets/chunk.143.02e9efcdcc5981a95eca.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\chunk.143.02e9efcdcc5981a95eca.js
+Content Type: application/javascript
+
+Uri: https://petsofelon.com/assets/chunk.536.3aa219562fd5df648d72.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\chunk.536.3aa219562fd5df648d72.js
+Content Type: application/javascript
+
+Uri: https://petsofelon.com/assets/global.css
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\global.css
+Content Type: text/css
+
+Uri: https://petsofelon.com/assets/images/binance.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\binance.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/bscscan-logo-light.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\bscscan-logo-light.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/certik-logo.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\certik-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/coingecko-logo.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\coingecko-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/coinmarketcap-logo.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\coinmarketcap-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/desert-finance.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\desert-finance.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/ethereum.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\ethereum.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/etherscan-logo.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\etherscan-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/liquidity-bsc.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\liquidity-bsc.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/liquidity-eth-bnb.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\liquidity-eth-bnb.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/logo2.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/metamask.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\metamask.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/minus.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\minus.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/moon.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\moon.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/plus.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/POE-antiwhales-2.png
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\POE-antiwhales-2.png
+Content Type: image/png
+
+Uri: https://petsofelon.com/assets/images/POE-Astronaut.png
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\POE-Astronaut.png
+Content Type: image/png
+
+Uri: https://petsofelon.com/assets/images/POE-burn.png
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\POE-burn.png
+Content Type: image/png
+
+Uri: https://petsofelon.com/assets/images/Shiba.png
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\Shiba.png
+Content Type: image/png
+
+Uri: https://petsofelon.com/assets/images/usecase.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\usecase.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/images/wallet-connect.svg
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\images\wallet-connect.svg
+Content Type: image/svg+xml
+
+Uri: https://petsofelon.com/assets/POE-07141c214c3cd56d6b1ca9003b36a2de.css
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\POE-07141c214c3cd56d6b1ca9003b36a2de.css
+Content Type: text/css
+
+Uri: https://petsofelon.com/assets/vendor-5a0a330dc2070c1ed3b68d1a03115dbd.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\vendor-5a0a330dc2070c1ed3b68d1a03115dbd.js
+Content Type: application/javascript
+
+Uri: https://petsofelon.com/assets/wallet.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\assets\wallet.js
+Content Type: application/javascript
+
+Uri: https://petsofelon.com/favicon.ico
+File Name: C:\Downloaded Web Sites\petsofelon.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://petsofelon.com/files/POE_whitepaper.pdf
+File Name: C:\Downloaded Web Sites\petsofelon.com\files\POE_whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://petsofelon.com/img/elonmusk.png
+File Name: C:\Downloaded Web Sites\petsofelon.com\img\elonmusk.png
+Content Type: image/png
+
+Uri: https://petsofelon.com/img/Mahmoud_El-Gharabawy.jpg
+File Name: C:\Downloaded Web Sites\petsofelon.com\img\Mahmoud_El-Gharabawy.jpg
+Content Type: image/jpeg
+
+Uri: https://petsofelon.com/img/Paul_Lee.jpg
+File Name: C:\Downloaded Web Sites\petsofelon.com\img\Paul_Lee.jpg
+Content Type: image/jpeg
+
+Uri: https://petsofelon.com/img/Peter_lutz.jpg
+File Name: C:\Downloaded Web Sites\petsofelon.com\img\Peter_lutz.jpg
+Content Type: image/jpeg
+
+Uri: https://petsofelon.com/img/tomaz_petrvi.jpg
+File Name: C:\Downloaded Web Sites\petsofelon.com\img\tomaz_petrvi.jpg
+Content Type: image/jpeg
+
+Uri: https://unpkg.com/@metamask/legacy-web3@2.0.0/dist/metamask.web3.min.js
+File Name: C:\Downloaded Web Sites\petsofelon.com\@metamask\legacy-web3@2.0.0\dist\metamask.web3.min.js
+Content Type: application/javascript
+
